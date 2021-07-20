@@ -14,7 +14,7 @@ int main()
         cout << word << " ";
     }
     
-    cout << "Done!!!!!!!!!";
+    
     cout << endl;
     
 }
